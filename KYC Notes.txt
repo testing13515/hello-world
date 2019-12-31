@@ -1,0 +1,16 @@
+HK client -> any procedure to check tax residence? tax residence questions in the account opening form? Double nationality? 
+tax residence is a risk factor here?
+
+POA need to match country of residence in SF?
+
+POA -> purpose for mailing address information only? Not related to AML?
+
+Employment -> Employer/income from blocked countries (Source of the fund problem)
+
+what is our KPI?
+
+
+Saleforce checking
+
+- Nationality
+- IP address
