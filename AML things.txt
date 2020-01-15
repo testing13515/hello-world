@@ -1,0 +1,25 @@
+1. What to do and under what situation we need to carry out SDD,CDD and EDD (practical version)?
+
+Put this under other tabs of HK acct opening steps excel file
+
+2. Check if current doc covers all the CDD measures
+
+3. Risk factor - country risk (how to determine the component)
+
+4. Trigger event part consolidation into AML notes appendix - find if any doc state what constitutes a trigger event
+
+5. Conceptual chart review
+
+6. AML notes - appendix part
+
+7. Account opening process - open a new file
+
+8. SFC - other AML guidelines such as suggested AML measures
+
+9. FATCA and CRS
+
+10. ATFX - submit to SFC materials?
+
+11. Review the ongoing monitoring part - see the SFC notes again - update risk level??
+
+12. Questions in other notepads
